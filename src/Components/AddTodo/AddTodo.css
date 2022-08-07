@@ -1,0 +1,12 @@
+.inputTask{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    align-items: center;
+}
+.btn{
+    margin-left: 12px;
+    background-color: white;
+  }
+
